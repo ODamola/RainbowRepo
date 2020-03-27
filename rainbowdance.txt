@@ -3,3 +3,10 @@ Step right.
 Jump up and down.
 Twirl your hands.
 This is the rainbow dance.
+
+# Steps were wrong
+
+Step to the left.
+Step to the right.
+Spin around, and bring it down alright.
+
